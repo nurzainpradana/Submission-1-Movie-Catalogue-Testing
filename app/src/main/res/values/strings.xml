@@ -1,0 +1,167 @@
+<resources>
+    <string name="change_language_settings">Change Language Settings</string>
+
+    <string name="app_name">Submission 1 Movie Catalogue Testing</string>
+    <string name="title_tvshow">TV Show</string>
+    <string name="title_movies">Movies</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+    <string name="year">Year</string>
+    <string name="click_to_read_more">Click To Read More ...</string>
+    <string name="poster_tvshow">Poster TvShow</string>
+    <string name="poster_movie">Poster Movie</string>
+
+    <string-array name="data_movie_title">
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bumble Bee</item>
+        <item>Deadpool</item>
+        <item>Dragon Ball</item>
+        <item>Mortal Engine</item>
+        <item>Preman Pensiun</item>
+        <item>Robin Hood</item>
+        <item>Spiderman</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="data_movie_genre">
+        <item>Action, Adventure, Fantasy</item>
+        <item>Adventure, Action, Science Fiction</item>
+        <item>Action, Adventure, Science Fiction</item>
+        <item>Comedy, Action</item>
+        <item>Action, Adventure, Animation, Kids</item>
+        <item>Adventure, Fantasy</item>
+        <item>Comedy, Drama</item>
+        <item>Adventure, Action</item>
+        <item>Fantasy, Action</item>
+        <item>Science Fiction, Action</item>
+    </string-array>
+
+    <string-array name="data_movie_year">
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2002</item>
+        <item>2018</item>
+    </string-array>
+
+    <array name="data_movie_poster">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_venom</item>
+    </array>
+
+    <string-array name="data_movie_description">
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm.
+            With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way
+            is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger
+            has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts
+            of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to
+            this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning
+            18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns
+            this is no ordinary yellow VW bug.</item>
+        <item>A kidnapped Fred Savage is forced to endure Deadpool\'s PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that\'s full of
+            magic, wonder &amp; zero F\'s.</item>
+        <item>Trunks returns from the future to train with Goku and Vegeta. However, it disappears without warning. Then the mysterious Fu bursts in,
+            telling them that Trunks has been imprisoned in the Prison Planet, a mysterious complex in an unknown place in the universes. The group
+            seeks the dragon balls to free Trunks, but an endless battle awaits them! Will Goku and the others rescue Trunks and escape the Prison
+            Planet</item>
+        <item>Many thousands of years in the future, Earth\’s cities roam the globe on huge wheels, devouring each other in a struggle for ever
+            diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a
+            mysterious young woman from the wastelands who will change the course of his life forever.</item>
+        <item>After three years, the business of Muslihat Epi Kusnandar, who has retired as a thug, has a problem. Sales decline. Muslihat also
+            faces new problems when Safira (Safira Maharani), her only daughter, grows up in adolescence and begins to be visited by boys. A bigger
+            problem: frictions between his former subordinates.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>After being bitten by a genetically altered spider, nerdy high school student Peter Parker is endowed with amazing powers.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent,
+            super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for
+            a symbiote of their own.</item>
+    </string-array>
+
+    <!-- TV Show -->
+    <string-array name="data_tvShow_title">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairytail</item>
+        <item>Family Guy</item>
+
+        <item>Mortal Engine</item>
+        <item>Naruto Shipudden</item>
+        <item>Supergirl</item>
+        <item>The Simpson</item>
+        <item>The Umbrella</item>
+    </string-array>
+
+    <string-array name="data_tvShow_genre">
+        <item>Drama, Action &amp; Adventure </item>
+        <item>Sci-Fi &amp; Fantasy, Action &amp; Adventure </item>
+        <item>Comedy, Sci-Fi &amp; Fantasy, Animation, Action &amp; Adventure </item>
+        <item>Action &amp; Adventure, Animation, Comedy, Sci-Fi &amp; Fantasy </item>
+        <item>Animation, Comedy</item>
+
+        <item>Adventure, Fantasy</item>
+        <item>Animation, Comedy, Drama</item>
+        <item>Action, Adventure, Drama, Science Fiction</item>
+        <item> Action &amp; Adventure, Sci-Fi &amp; Fantasy </item>
+        <item>Science Fiction, Action</item>
+    </string-array>
+
+    <string-array name="data_tvShow_year">
+        <item>2012</item>
+        <item>2019</item>
+        <item>1986</item>
+        <item>2009</item>
+        <item>1999</item>
+
+        <item>2018</item>
+        <item>2007</item>
+        <item>2015</item>
+        <item>1989</item>
+        <item>2019</item>
+    </string-array>
+
+    <array name="data_tvShow_poster">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_naruto_shipudden</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_the_umbrella</item>
+    </array>
+
+    <string-array name="data_tvShow_description">
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>The Doom Patrol\’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.</item>
+        <item>Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the mystical Dragon Balls brought her to Goku\'s home. Together, they set off to find all seven and to grant her wish.</item>
+        <item>Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn\'t just any ordinary kid, he\'s a member of one of the world\'s most infamous mage guilds: Fairy Tail.</item>
+        <item>Sick, twisted, politically incorrect and Freakin\' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he\'s not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.</item>
+
+        <item>Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.</item>
+        <item>Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.</item>
+        <item>Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.</item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+        <item>A dysfunctional family of superheroes comes together to solve the mystery of their father\'s death, the threat of the apocalypse and more.</item>
+    </string-array>
+</resources>
